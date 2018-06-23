@@ -1,0 +1,27 @@
+{
+  "name": "roll20-api-router",
+  "version": "0.1.0",
+  "description": "Common module that implements the Command pattern for routing Roll20 API requests to an appropriate module",
+  "main": "roll20-api-router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GRUBES/roll20-api-router.git"
+  },
+  "keywords": [
+    "roll20",
+    "dnd5e"
+  ],
+  "author": "Draico Dorath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GRUBES/roll20-api-router/issues"
+  },
+  "homepage": "https://github.com/GRUBES/roll20-api-router#readme",
+  "devDependencies": {
+    "rollup": "^0.61.2",
+    "rollup-plugin-json": "^3.0.0"
+  }
+}
