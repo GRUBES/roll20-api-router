@@ -4,7 +4,8 @@
   "description": "Common module that implements the Command pattern for routing Roll20 API requests to an appropriate module",
   "main": "roll20-api-router.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
