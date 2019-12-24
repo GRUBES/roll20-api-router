@@ -21,8 +21,9 @@
     "url": "https://github.com/GRUBES/roll20-api-router/issues"
   },
   "homepage": "https://github.com/GRUBES/roll20-api-router#readme",
-  "devDependencies": {
-    "rollup": "^0.61.2",
-    "rollup-plugin-json": "^3.0.0"
+  "devDependencies": {},
+  "dependencies": {
+    "@rollup/plugin-json": "^4.0.1",
+    "rollup": "^1.27.14"
   }
 }
